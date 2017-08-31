@@ -18,7 +18,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 
 //================ User Schema start ==============
-mongoose.connect('mongodb://saylanibatch4:saylanibatch4@ds127883.mlab.com:27883/saylani_batch_4', {
+mongoose.connect('mongodb://memon:yousuf2125420@ds111124.mlab.com:11124/memon', {
     useMongoClient: true
     /* other options */
 });
